@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual env
+venv/
+.env/
+
+# Data (if large/private)
+data/
+datasets/
+
+.DS_Store
