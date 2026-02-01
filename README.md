@@ -73,5 +73,16 @@ This is formulated as a **regression problem** rather than classification.
    ```bash
    jupyter notebook
 
-
 3. Run all cells sequentially.
+
+📌 Future Improvements
+
+Data augmentation for better generalization
+
+Deeper CNN or transfer learning
+
+Hyperparameter tuning
+
+Convert notebook into modular .py scripts
+
+Deploy as a web application
