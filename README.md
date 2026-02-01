@@ -70,7 +70,8 @@ This is formulated as a **regression problem** rather than classification.
    cd your-repo-name
 2. Open the notebook:
 
-run jupyter notebook
+   ```bash
+   jupyter notebook
 
 
 3. Run all cells sequentially.
